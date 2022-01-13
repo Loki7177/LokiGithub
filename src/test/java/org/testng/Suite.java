@@ -46,7 +46,12 @@ public class Suite extends BaseClass {
 
 		System.out.println("Total Time ="+ttime);
 
+	}
+	
+	public void quite() {
+	driver.close();
 
+	}
 
 
 	}
