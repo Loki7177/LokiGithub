@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5861" started-at="2022-01-12T08:39:14Z" finished-at="2022-01-12T08:39:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5861" started-at="2022-01-12T08:39:14Z" finished-at="2022-01-12T08:39:20Z">
+      <class name="org.testng.Suite">
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testng.Suite@146ba0ac]" name="start" is-config="true" duration-ms="3929" started-at="2022-01-12T08:39:10Z" finished-at="2022-01-12T08:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="bing()[pri:0, instance:org.testng.Suite@146ba0ac]" name="bing" duration-ms="1776" started-at="2022-01-12T08:39:14Z" finished-at="2022-01-12T08:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bing -->
+        <test-method status="PASS" signature="opengoogle()[pri:0, instance:org.testng.Suite@146ba0ac]" name="opengoogle" duration-ms="2598" started-at="2022-01-12T08:39:16Z" finished-at="2022-01-12T08:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengoogle -->
+        <test-method status="PASS" signature="yahoo()[pri:0, instance:org.testng.Suite@146ba0ac]" name="yahoo" duration-ms="1415" started-at="2022-01-12T08:39:18Z" finished-at="2022-01-12T08:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoo -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:org.testng.Suite@146ba0ac]" name="closebrowser" is-config="true" duration-ms="0" started-at="2022-01-12T08:39:20Z" finished-at="2022-01-12T08:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- org.testng.Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
